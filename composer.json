@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap":[
+            "app/"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^7.4",
+        "phpunit/php-invoker": "^2.0",
+        "phpunit/dbunit": "^4.0"
+    }
+}
